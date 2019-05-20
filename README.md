@@ -1,4 +1,4 @@
-# Linux-terminal-pro-blondyny
+# Linux terminál pro blondýny
 
 Ctrl+alt+T – spustí terminál
 příkaz exit – ukončí
